@@ -1,0 +1,6 @@
+info:
+  name: update 13
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/checkout-bruno-5/13
